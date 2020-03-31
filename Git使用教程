@@ -1,0 +1,4 @@
+1. Visual Studio Solution should choose while files to upload?
+    '.gitignore' 中添加忽略的文件和目录
+2. 建立仓库有1G的限制，不能太大了，可以多件几个仓库
+3. 通过VS创建的仓库会自带VS的.gitignore 和 .gitattribute
